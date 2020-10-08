@@ -21,6 +21,6 @@ function Contact(prop) {
 Contact.propTypes = {
   name: PropTypes.string.isRequired,
   avatar: PropTypes.string.isRequired,
-  online: PropTypes.bool.isRequired
+  online: PropTypes.bool
 };
 export default Contact;
