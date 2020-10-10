@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import "/src/style/Contact.css";
+import "../style/Contact.css";
 
 const Contact = ({ avatar, name, online }) => {
   return (
