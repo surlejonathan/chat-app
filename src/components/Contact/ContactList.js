@@ -4,7 +4,7 @@ import Contact from "./Contact";
 const contacts = [
   {
     name: "Maureen Ruiz",
-    online: true,
+    online: false,
     avatar: "https://randomuser.me/api/portraits/women/59.jpg"
   },
   {
@@ -16,6 +16,11 @@ const contacts = [
     name: "Sebastian Bishop",
     online: true,
     avatar: "https://randomuser.me/api/portraits/men/52.jpg"
+  },
+  {
+    name: "Marc Valentine",
+    online: true,
+    avatar: "https://randomuser.me/api/portraits/men/2.jpg"
   }
 ];
 
