@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import '../style/Contact.css';
+import './style/Contact.css';
 
 function Contact(prop) {
   return (
