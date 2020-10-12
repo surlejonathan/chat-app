@@ -38,6 +38,9 @@
     margin-right: 6px;
   }
   
+  .Contact .status span {
+    cursor: pointer;
+  }
   .Contact .status .status-online {
     background: #aed581;
   }
